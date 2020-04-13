@@ -1,0 +1,26 @@
+.textPosition{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    padding: 5px;
+    border: 1px solid gray;
+    margin: 5px;
+}
+
+.title{
+    color: firebrick;
+    font-size: 50px;
+}
+
+a:hover{
+    color:white;
+    background-color: blue;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.headerLinks{
+    float: right;
+    margin-right: 100px;
+}
