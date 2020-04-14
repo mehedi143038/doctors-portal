@@ -6,8 +6,8 @@ const Header = () => {
         <div className = "textPosition">
             <h2 className="title">Doctor's portal</h2>
             <div className="headerLinks">
-                <a href="#home">Home</a>
-                <a href="#about">About</a>
+                <a href="/">Home</a>
+                <a href="/about">About</a>
                 <a href="#service">Dental Service</a>
                 <a href="#review">Reviews</a>
                 <a href="#blog">Blog</a>
