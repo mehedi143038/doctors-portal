@@ -1,5 +1,179 @@
+.appointment-btn{
+    padding: 10px;
+    background-color: lightseagreen;
+    color: white;
+    border-radius: 5px;
+}
+
 .container{
+    margin-top: 50px;
+}
+
+.container p{
+    margin: 30px 30px 40px 0px;
+}
+
+.right-img{
+    width: 100%;
+    height: 100%;
+}
+
+.welcome{
+    padding: 30px;
+}
+
+.first-box{
+    margin: 80px 5px;
+    padding: 20px 30px;
+    background-color: lightseagreen;
+    border-radius: 4px;
+    color: white;
+}
+
+.second-box{
+    margin: 80px 5px;
+    padding: 20px 30px;
+    background-color: navy;
+    border-radius: 4px;
+    color: white;
+}
+
+.third-box{
+    margin: 80px 5px;
+    padding: 20px 30px;
+    background-color: lightseagreen;
+    border-radius: 4px;
+    color: white;
+}
+
+.contact{
     margin-left: 100px;
-    font-size: 30px;
-    color: darkblue;
+}
+
+.service h5{
+    text-align: center;
+    color: lightseagreen;
+    font-weight: 900;
+}
+
+.service h1{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 100px;
+}
+
+.treatment img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%
+}
+.treatment h5{
+    text-align: center;
+}
+
+.baby-img{
+    height: 90%;
+    width: 90%;
+}
+
+.appointment-section{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    background-color: rgb(2, 2, 41);
+}
+
+.appointment-section h1,p{
+    color: white;
+}
+
+.appointment-section h4{
+    color: lightseagreen;
+}
+
+.doctor-img{
+    height: 100%;
+    width: 90%;
+}
+
+.appointment-right{
+    padding: 5%;
+}
+
+.patient-box{
+    width: 30%;
+    box-shadow: 1px 2px 2px 1px rgb(190, 200, 211);
+    padding: 10px 0px 10px 25px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.patient-box p{
+    color: black;
+}
+
+.all-box{
+    display: flex;
+    margin-left: 50px;
+}
+
+.center{
+    text-align: center;
+}
+
+.blog{
+    background-color: lightseagreen;
+}
+
+.highlight{
+    color: lightseagreen;
+    font-weight: 900;
+}
+
+.doctors{
+    height: 90%;
+    width: 90%;
+}
+
+.paragraph-color{
+    color: black;
+}
+
+.doctor-space{
+    margin-bottom: 50px;
+}
+
+.contact-us{
+    margin-top: 100px;
+    background-color: rgb(2, 2, 41);
+    padding: 5% 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.submit-btn{
+    background-color: lightseagreen;
+    color: white;
+    padding: 10px 70px;
+    margin-left: 35%;
+}
+
+.subject{
+    width: 100%;
+    height: 60px;
+    padding: 10px 20px;
+}
+
+.email{
+    width: 100%;
+    height: 60px;
+    padding: 10px 20px;
+}
+
+.message{
+    width: 100%;
+    height: 120px;
+    padding: 10px 20px;
 }

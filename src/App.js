@@ -2,13 +2,13 @@ import React from 'react';
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 import './App.css';
 import Header from './Components/Header/Header';
 import Homepage from './Components/Homepage/Homepage';
 import Appointment from './Components/Appointment/Appointment';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -24,6 +24,7 @@ function App() {
         </Route>
       </Switch>
     </Router>
+    <Footer></Footer>
     </div>
   );
 }

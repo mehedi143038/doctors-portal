@@ -1,14 +1,19 @@
 .positioning{
-    margin: 50px;
+    margin: 5% 10%;
 }
-.calender{
-    margin-left: 100px;
-    width: 30%;
-}
-h1{
+
+.positioning h1{
     margin-bottom: 50px;
     color: green;
 }
-h3{
+.positioning h3{
     color: lightslategray;
+}
+.positioning h2{
+    text-align: center;
+}
+
+.appointment-right-img{
+    height: 100%;
+    width: 100%;
 }

@@ -1,22 +1,16 @@
 .textPosition{
-    text-align: center;
+    margin: 40px;
 }
 a{
     text-decoration: none;
-    padding: 5px;
-    border: 1px solid gray;
-    margin: 5px;
+    padding: 10px;
+    margin: 10px;
+    color: black;
 }
 
-.title{
-    color: firebrick;
-    font-size: 50px;
-}
 
 a:hover{
-    color:white;
-    background-color: blue;
-    border-radius: 5px;
+    font-weight: 700;
     text-decoration: none;
 }
 
